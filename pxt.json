@@ -1,0 +1,18 @@
+{
+    "name": "6953a403dedd5778dd534d6b8df2e80b6facefa4",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "additionalFilePaths": []
+}
